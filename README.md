@@ -1,0 +1,10 @@
+- 👋 Hi, I’m @skaimid
+- 👀 I’m interested in programming, gamming, art ...
+- 🌱 I’m currently learning 
+  - Java concurrent programming
+  - Graphic design
+  - Music theory 
+  - Game appreciation and design
+- 📫 How to reach me 
+  - ✈️ telegram: [@skaimid](https://t.me/skaimid)
+  - ✉️ mail: [zhuzhaoxin2016@gmail.com](mailto://zhuzhaoxin2016@gmail.com)
