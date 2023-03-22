@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @skaimid
-- 👀 I’m interested in programming, gamming, art ...
-- 🌱 I’m currently learning 
-  - Java concurrent programming
-  - Android/iOS developing
+- 👀 Mostly working with JavaScript.
+  - Sometimes writing Java/Kotlin/Android.
 - 📫 How to reach me 
-  - ✈️ telegram: [@skaimid](https://t.me/skaimid)
   - ✉️ mail: [zhuzhaoxin2016@gmail.com](mailto://zhuzhaoxin2016@gmail.com)
+---
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=skaimid)](https://github.com/anuraghazra/github-readme-stats)
